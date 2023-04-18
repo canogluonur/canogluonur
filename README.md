@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canogluonur&show_icons=true&locale=en" alt="canogluonur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canogluonur&" alt="canogluonur" /></p>
