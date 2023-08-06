@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onur Canoğlu</h1>
+<h1 align="center">Onur Canoğlu</h1>
 <h3 align="center">DevOps Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
