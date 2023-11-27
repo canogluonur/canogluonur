@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as DevOps Engineer.<br>- 📚 I'm learning new things continuously.</p>
+<p align="left">- 🔭 I’m working as DevOps Engineer.<br>- KubeSphere 2023 ambassador.</p>
 
 ###
 
