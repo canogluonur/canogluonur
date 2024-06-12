@@ -2,8 +2,8 @@
 <h3 align="center">DevOps Engineer</h3>
 
 
-- ⚡ Fun fact ** KubeSphere 2023 ambassador**
-- ⚡ Fun fact ** CNCG & KCD 2024 Istanbul CO-Organizer**
+- ⚡  KubeSphere 2023 ambassador
+- ⚡ CNCG & KCD 2024 Istanbul CO-Organizer
 
 
 </div><h3 align="left">Connect with me:</h3>
