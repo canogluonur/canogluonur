@@ -35,5 +35,4 @@
 <a href="https://github.com/canogluonur">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=canogluonur&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canogluonur&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canogluonur&theme=2077" height="180em" />
 </div>
