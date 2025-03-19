@@ -1,11 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">DevOps Engineer</h3>
+### Hi there 👋
 
+Hello, I'm Onur Canoğlu, working as a DevOps Engineer. I am a **KCD 2025 Istanbul CO-Organizer** and aa **KubeSphere 2023 ambassador**.
 
-- ⚡  KubeSphere 2023 ambassador
-- ⚡ CNCG & KCD 2024 Istanbul CO-Organizer
-
-<h3 align="left">Languages and Tools:</h3>
+**🔭 I'm currently working on**
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
