@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 Hello, I'm Onur Canoğlu, working as a DevOps Engineer. I am a **KCD IstanbulOrganizer** and **KubeSphere 2023 ambassador**.
 
