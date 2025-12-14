@@ -13,7 +13,6 @@ Hello, I'm Onur Canoğlu, working as a DevOps Engineer. I am a **KCD IstanbulOrg
 <img src="images/prometheus-icon.svg" alt="prometheus" width="40" height="40"/> 
 <img src="images/terraform-logo.svg" alt="terraform" width="90" height="40"/>
 <img src="images/vault-logo.svg" alt="vault" width="90" height="40"/>
-<img src="images/k3s-logo.svg" alt="k3s" width="60" height="40"/> 
 <img src="images/ansible.svg" alt="ansible" width="40" height="40"/> 
 <img alt="longhorn" height="40" width="90" src="images/longhorn-logo.svg"> 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
@@ -24,6 +23,7 @@ Hello, I'm Onur Canoğlu, working as a DevOps Engineer. I am a **KCD IstanbulOrg
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 </p>
+<img src="images/rke.svg" alt="rke" width="90" height="40"/> 
 
 
 **Certificates**
