@@ -1,6 +1,10 @@
 # Onur Canoğlu
 **DevOps Engineer** | KCD Istanbul Organizer | KubeSphere Ambassador 2023
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## Core Infrastructure & Orchestration
 
 <p align="left">
@@ -11,6 +15,33 @@
 <img alt="longhorn" height="40" width="90" src="images/longhorn-logo.svg">
 </p>
 
+## CI/CD & GitOps
+
+<p align="left">
+<img src="images/argocd.svg" alt="argocd" width="40" height="40"/>
+<img src="images/gitlab-ci.svg" alt="gitlab-ci" width="40" height="40"/>
+<img src="images/github-actions.svg" alt="github-actions" width="40" height="40"/>
+</p>
+
+## Security & Networking
+
+<p align="left">
+<img src="images/vault-logo.svg" alt="vault" width="90" height="40"/>
+<img src="images/trivy.svg" alt="trivy" width="40" height="40"/>
+<img src="images/nginx-gateway.svg" alt="nginx-gateway" width="40" height="40"/>
+</p>
+
+## Ecosystem & Tools
+
+<p align="left">
+<img src="images/cncf-icon-color.png" alt="cncf" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
 ## Cloud & Infrastructure as Code
 
 <p align="left">
@@ -19,14 +50,6 @@
 <img src="images/terraform-logo.svg" alt="terraform" width="90" height="40"/>
 <img src="images/ansible.svg" alt="ansible" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-</p>
-
-## CI/CD & GitOps
-
-<p align="left">
-<img src="images/argocd.svg" alt="argocd" width="40" height="40"/>
-<img src="images/gitlab-ci.svg" alt="gitlab-ci" width="40" height="40"/>
-<img src="images/github-actions.svg" alt="github-actions" width="40" height="40"/>
 </p>
 
 ## Observability & Monitoring
@@ -40,14 +63,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
 </p>
 
-## Security & Networking
-
-<p align="left">
-<img src="images/vault-logo.svg" alt="vault" width="90" height="40"/>
-<img src="images/trivy.svg" alt="trivy" width="40" height="40"/>
-<img src="images/nginx-gateway.svg" alt="nginx-gateway" width="40" height="40"/>
-</p>
-
 ## Data Infrastructure & Storage
 
 <p align="left">
@@ -57,13 +72,9 @@
 <img src="images/minio.svg" alt="minio" width="40" height="40"/>
 </p>
 
-## Ecosystem & Tools
-
-<p align="left">
-<img src="images/cncf-icon-color.png" alt="cncf" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+</td>
+</tr>
+</table>
 
 ## Certifications
 
