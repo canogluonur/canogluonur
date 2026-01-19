@@ -5,97 +5,142 @@
 
 <div align="center">
 
+## �‍💻 About Me
+
+</div>
+
+Passionate **DevOps Engineer** with expertise in cloud-native technologies and container orchestration. I specialize in building scalable, resilient infrastructure using Kubernetes and implementing GitOps practices for modern software delivery.
+
+**🎯 What I Do:**
+- 🚀 Design and manage production-grade Kubernetes clusters
+- 🔄 Implement CI/CD pipelines and GitOps workflows with ArgoCD
+- 📊 Build comprehensive observability stacks (Prometheus, Grafana, Loki, Tempo)
+- 🔐 Ensure security best practices with Vault, Trivy, and policy enforcement
+- ☁️ Architect cloud infrastructure on AWS and Azure using IaC (Terraform, Ansible)
+
+**🌟 Community Involvement:**
+- 🎤 **KCD Istanbul Organizer** - Helping grow the Kubernetes community in Turkey
+- 🏆 **KubeSphere Ambassador 2023** - Advocating for cloud-native technologies
+- ✍️ Technical writer sharing DevOps insights and best practices
+
+<img src="https://user-images.githubusercontent.com/73097545/115834477-dbab4450-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
 ## 🔧 Tech Stack
 
 </div>
 
-<table border="0">
+<div align="center">
+
+<table>
 <tr>
-<td width="48%" valign="top">
-
-### 🎯 Core Infrastructure & Orchestration
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-<img src="images/helm-icon-color.png" alt="helm" width="45" height="45"/>
-<img src="images/rke.svg" alt="rke" width="45" height="45"/><img alt="longhorn" height="45" width="90" src="images/longhorn-logo.svg">
-</p>
-
-### 🚀 CI/CD & GitOps
-
-<p align="left">
-<img src="images/argocd.png" alt="argocd" width="45" height="45"/>
-<img src="images/gitlab-ci.png" alt="gitlab-ci" width="45" height="45"/>
-<img src="images/github-actions.webp" alt="github-actions" width="45" height="45"/>
-</p>
-
-### 🔐 Security & Networking
-
-<p align="left">
-<img src="images/vault-logo.svg" alt="vault" width="90" height="45"/>
-<img src="images/trivy.svg" alt="trivy" width="45" height="45"/>
-<img src="images/nginx-gateway.svg" alt="nginx" width="45" height="45"/>
-<img src="images/haproxy.svg" alt="haproxy" width="45" height="45"/>
-</p>
-
-### 📨 Messaging & Streaming
-
-<p align="left">
-<img src="images/kafka.svg" alt="kafka" width="45" height="45"/>
-<img src="images/rabbitmq.svg" alt="rabbitmq" width="45" height="45"/>
-</p>
-
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-### ☁️ Cloud & Infrastructure as Code
-
-<p align="left">
-<img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="45" height="45"/>
-<img src="images/terraform-logo.svg" alt="terraform" width="90" height="45"/>
-<img src="images/ansible.svg" alt="ansible" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-<img src="images/python.svg" alt="python" width="45" height="45"/>
-</p>
-
-### 📊 Observability & Monitoring
-
-<p align="left">
-<img src="images/prometheus-icon.svg" alt="prometheus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="45" height="45"/>
-<img src="images/loki.svg" alt="loki" width="45" height="45"/>
-<img src="images/tempo.svg" alt="tempo" width="45" height="45"/>
-<img src="images/alertmanager.svg" alt="alertmanager" width="45" height="45"/>
-<img src="images/elasticsearch.svg" alt="elasticsearch" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/elasticco_kibana-icon.svg" alt="Kibana" width="45" height="45"/>
-<img src="images/filebeat.svg" alt="filebeat" width="45" height="45"/>
-<img src="images/jaeger.svg" alt="jaeger" width="45" height="45"/>
-</p>
-
-### 💾 Data & Storage
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
-<img src="images/minio.svg" alt="minio" width="45" height="45"/>
-<img src="images/neo4j.svg" alt="neo4j" width="45" height="45"/>
-</p>
-
-### 🛠️ Tools & Ecosystem
-
-<p align="left">
-<img src="images/cncf-icon-color.png" alt="cncf" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-</p>
-
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="images/helm-icon-color.png" width="48" height="48" alt="Helm" />
+<br>Helm
+</td>
+<td align="center" width="96">
+<img src="images/argocd.png" width="48" height="48" alt="ArgoCD" />
+<br>ArgoCD
+</td>
+<td align="center" width="96">
+<img src="images/terraform-logo.svg" width="48" height="48" alt="Terraform" />
+<br>Terraform
+</td>
+<td align="center" width="96">
+<img src="images/ansible.svg" width="48" height="48" alt="Ansible" />
+<br>Ansible
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+<td align="center" width="96">
+<img src="images/prometheus-icon.svg" width="48" height="48" alt="Prometheus" />
+<br>Prometheus
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" width="48" height="48" alt="Grafana" />
+<br>Grafana
+</td>
+<td align="center" width="96">
+<img src="images/loki.svg" width="48" height="48" alt="Loki" />
+<br>Loki
+</td>
+<td align="center" width="96">
+<img src="images/tempo.svg" width="48" height="48" alt="Tempo" />
+<br>Tempo
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="images/vault-logo.svg" width="48" height="48" alt="Vault" />
+<br>Vault
+</td>
+<td align="center" width="96">
+<img src="images/trivy.svg" width="48" height="48" alt="Trivy" />
+<br>Trivy
+</td>
+<td align="center" width="96">
+<img src="images/gitlab-ci.png" width="48" height="48" alt="GitLab CI" />
+<br>GitLab CI
+</td>
+<td align="center" width="96">
+<img src="images/github-actions.webp" width="48" height="48" alt="GitHub Actions" />
+<br>GitHub Actions
+</td>
+<td align="center" width="96">
+<img src="images/elasticsearch.svg" width="48" height="48" alt="Elasticsearch" />
+<br>Elasticsearch
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/elasticco_kibana-icon.svg" width="48" height="48" alt="Kibana" />
+<br>Kibana
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="images/kafka.svg" width="48" height="48" alt="Kafka" />
+<br>Kafka
+</td>
+<td align="center" width="96">
+<img src="images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
+<br>RabbitMQ
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" width="48" height="48" alt="Linux" />
+<br>Linux
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
