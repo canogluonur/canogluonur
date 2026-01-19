@@ -27,7 +27,7 @@
 <p align="left">
 <img src="images/argocd.png" alt="argocd" width="40" height="40"/>
 <img src="images/gitlab-ci.png" alt="gitlab-ci" width="40" height="40"/>
-<img src="images/github-actions.svg" alt="github-actions" width="40" height="40"/>
+<img src="images/github-actions.webp" alt="github-actions" width="40" height="40"/>
 </p>
 
 ### 🔐 Security & Networking
