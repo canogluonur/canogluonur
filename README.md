@@ -19,9 +19,7 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 <img src="images/helm-icon-color.png" alt="helm" width="40" height="40"/>
-<img src="images/rke.svg" alt="rke" width="40" height="40"/>
-<img src="images/rancher.svg" alt="rancher" width="40" height="40"/>
-<img alt="longhorn" height="40" width="90" src="images/longhorn-logo.svg">
+<img src="images/rke.svg" alt="rke" width="40" height="40"/><img alt="longhorn" height="40" width="90" src="images/longhorn-logo.svg">
 </p>
 
 ### 🚀 CI/CD & GitOps
