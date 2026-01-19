@@ -3,11 +3,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table border="0">
-<tr>
-<td width="48%" valign="top">
+<div align="center">
 
-### Infrastructure & Orchestration
+## 🔧 Tech Stack
+
+</div>
+
+### 🎯 Core Infrastructure
+```
+Kubernetes • Docker • Helm • RKE • Longhorn
+```
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
@@ -16,7 +21,10 @@
 <img alt="longhorn" height="40" width="90" src="images/longhorn-logo.svg">
 </p>
 
-### Cloud & IaC
+### ☁️ Cloud & Infrastructure as Code
+```
+AWS • Azure • Terraform • Ansible • Bash
+```
 <p align="left">
 <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
@@ -25,18 +33,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-### CI/CD & GitOps
+### 🚀 CI/CD & GitOps
+```
+ArgoCD • GitLab CI • GitHub Actions
+```
 <p align="left">
 <img src="images/argocd.png" alt="argocd" width="40" height="40"/>
 <img src="images/gitlab-ci.png" alt="gitlab-ci" width="40" height="40"/>
 <img src="images/github-actions.svg" alt="github-actions" width="40" height="40"/>
 </p>
 
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-### Observability
+### 📊 Observability Stack
+```
+Prometheus • Grafana • Loki • Tempo • Alertmanager • Kibana
+```
 <p align="left">
 <img src="images/prometheus-icon.svg" alt="prometheus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
@@ -46,14 +56,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
 </p>
 
-### Security & Networking
+### 🔐 Security & Networking
+```
+HashiCorp Vault • Trivy • Nginx Gateway
+```
 <p align="left">
 <img src="images/vault-logo.svg" alt="vault" width="90" height="40"/>
 <img src="images/trivy.svg" alt="trivy" width="40" height="40"/>
 <img src="images/nginx-gateway.svg" alt="nginx-gateway" width="40" height="40"/>
 </p>
 
-### Data & Storage
+### 💾 Data & Storage
+```
+PostgreSQL • MongoDB • Redis • MinIO
+```
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -61,37 +77,34 @@
 <img src="images/minio.svg" alt="minio" width="40" height="40"/>
 </p>
 
-### Tools
+### 🛠️ Tools & Ecosystem
+```
+CNCF • Linux • Git
+```
 <p align="left">
 <img src="images/cncf-icon-color.png" alt="cncf" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table border="0">
-<tr>
-<td valign="top">
+<div align="center">
 
-### Certifications
-<p align="left">
-<img src="images/cka.png" alt="CKA" width="70" height="70"/>
-<img src="images/KCNA-Logo.png" alt="KCNA" width="70" height="70"/>
-</p>
+## 🎓 Certifications
 
-**CKA** - Certified Kubernetes Administrator  
-**KCNA** - Kubernetes and Cloud Native Associate
+<img src="images/cka.png" alt="CKA" width="80" height="80"/>
+<img src="images/KCNA-Logo.png" alt="KCNA" width="80" height="80"/>
 
-</td>
-</tr>
-</table>
+**Certified Kubernetes Administrator (CKA)** | **Kubernetes and Cloud Native Associate (KCNA)**
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+### 📫 Connect With Me
 
 **[Medium](https://medium.com/@onurcanoglu)** • **[LinkedIn](https://linkedin.com/in/onurcanoglu)**
 
