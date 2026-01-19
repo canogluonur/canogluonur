@@ -3,9 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### Infrastructure & Orchestration
 <p align="left">
@@ -33,7 +33,8 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="10%"></td>
+<td width="45%" valign="top">
 
 ### Observability
 <p align="left">
@@ -71,6 +72,10 @@
 </tr>
 </table>
 
+<table border="0">
+<tr>
+<td valign="top">
+
 ### Certifications
 <p align="left">
 <img src="images/cka.png" alt="CKA" width="70" height="70"/>
@@ -79,6 +84,10 @@
 
 **CKA** - Certified Kubernetes Administrator  
 **KCNA** - Kubernetes and Cloud Native Associate
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
