@@ -1,6 +1,11 @@
 # Onur Canoğlu
 **DevOps Engineer** | KCD Istanbul Organizer | KubeSphere Ambassador 2023
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Infrastructure & Orchestration
 <p align="left">
@@ -26,6 +31,9 @@
 <img src="images/gitlab-ci.png" alt="gitlab-ci" width="40" height="40"/>
 <img src="images/github-actions.svg" alt="github-actions" width="40" height="40"/>
 </p>
+
+</td>
+<td width="50%" valign="top">
 
 ### Observability
 <p align="left">
@@ -59,6 +67,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+</td>
+</tr>
+</table>
+
 ### Certifications
 <p align="left">
 <img src="images/cka.png" alt="CKA" width="70" height="70"/>
@@ -67,5 +79,11 @@
 
 **CKA** - Certified Kubernetes Administrator  
 **KCNA** - Kubernetes and Cloud Native Associate
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
+
+**[Medium](https://medium.com/@onurcanoglu)** • **[LinkedIn](https://linkedin.com/in/onurcanoglu)**
+
+</div>
