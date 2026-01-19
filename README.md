@@ -5,7 +5,7 @@
 
 <table border="0">
 <tr>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 ### Infrastructure & Orchestration
 <p align="left">
@@ -33,8 +33,8 @@
 </p>
 
 </td>
-<td width="10%"></td>
-<td width="45%" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
 ### Observability
 <p align="left">
