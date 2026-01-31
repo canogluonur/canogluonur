@@ -78,7 +78,7 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 <br>Grafana
 </td>
 <td align="center" width="96">
-<img src="images/loki.svg" width="48" height="48" alt="Loki" />
+<img src="images/loki.png" width="48" height="48" alt="Loki" />
 <br>Loki
 </td>
 <td align="center" width="96">
