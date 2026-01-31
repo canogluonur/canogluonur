@@ -104,7 +104,7 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 <br>GitHub Actions
 </td>
 <td align="center" width="96">
-<img src="images/elasticsearch.svg" width="48" height="48" alt="Elasticsearch" />
+<img src="images/elasticsearch.jpg" width="48" height="48" alt="Elasticsearch" />
 <br>Elasticsearch
 </td>
 <td align="center" width="96">
