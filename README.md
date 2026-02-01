@@ -41,19 +41,19 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 </td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-<br>Docker
+<br>
 </td>
 <td align="center" width="96">
 <img src="images/helm-icon-color.png" width="48" height="48" alt="Helm" />
-<br>Helm
+<br>
 </td>
 <td align="center" width="96">
 <img src="images/argocd.png" width="48" height="48" alt="ArgoCD" />
 <br>ArgoCD
 </td>
 <td align="center" width="96">
-<img src="images/terraform-logo.svg" width="48" height="48" alt="Terraform" />
-<br>Terraform
+<img src="images/terraform-logo.svg" width="68" height="68" alt="Terraform" />
+<br>
 </td>
 <td align="center" width="96">
 <img src="images/ansible.svg" width="48" height="48" alt="Ansible" />
@@ -63,7 +63,7 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 <tr>
 <td align="center" width="96">
 <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" width="48" height="48" alt="AWS" />
-<br>AWS
+<br>
 </td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
@@ -82,14 +82,14 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 <br>Loki
 </td>
 <td align="center" width="96">
-<img src="images/tempo.svg" width="48" height="48" alt="Tempo" />
+<img src="images/tempo.jpeg" width="48" height="48" alt="Tempo" />
 <br>Tempo
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
 <img src="images/vault-logo.svg" width="48" height="48" alt="Vault" />
-<br>Vault
+<br>
 </td>
 <td align="center" width="96">
 <img src="images/trivy.svg" width="48" height="48" alt="Trivy" />
@@ -114,24 +114,24 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="images/kafka.svg" width="48" height="48" alt="Kafka" />
+<img src="images/kafka.jpg" width="48" height="48" alt="Kafka" />
 <br>Kafka
 </td>
 <td align="center" width="96">
-<img src="images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
+<img src="images/rabbitmq.png" width="48" height="48" alt="RabbitMQ" />
 <br>RabbitMQ
 </td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
+<br>
 </td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
+<br>
 </td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
-<br>Redis
+<br>
 </td>
 <td align="center" width="96">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" width="48" height="48" alt="Linux" />
