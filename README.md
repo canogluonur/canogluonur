@@ -20,7 +20,6 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 
 **🌟 Community Involvement:**
 - 🎤 **KCD Istanbul Organizer** - Helping grow the Kubernetes community in Turkey
-- 🏆 **KubeSphere Ambassador 2023** - Advocating for cloud-native technologies
 - ✍️ Technical writer sharing DevOps insights and best practices
 
 <img src="https://user-images.githubusercontent.com/73097545/115834477-dbab4450-a447-11eb-908a-139a6edaec5c.gif">
@@ -148,15 +147,10 @@ Passionate **DevOps Engineer** with expertise in cloud-native technologies and c
 
 <img src="images/cka.png" alt="CKA" width="70" height="70"/>
 <img src="images/KCNA-Logo.png" alt="KCNA" width="70" height="70"/>
+<img src="images/kcsa.png" alt="KCSA" width="70" height="70"/>
 
-**Certified Kubernetes Administrator (CKA)** | **Kubernetes and Cloud Native Associate (KCNA)**
+**(CKA)** | **(KCNA)** | **(KCSA)**
 
 </div>
 
 <div align="center">
-
-### 📫 Connect With Me
-
-**[Medium](https://medium.com/@onurcanoglu)** • **[LinkedIn](https://linkedin.com/in/onurcanoglu)**
-
-</div>
